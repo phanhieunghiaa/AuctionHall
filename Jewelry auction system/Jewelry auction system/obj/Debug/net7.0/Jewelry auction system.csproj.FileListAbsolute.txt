@@ -1,0 +1,106 @@
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\appsettings.Development.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\appsettings.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\net1701-jewelry-auction-system-firebase-adminsdk-ncuhn-6f67e09863.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Jewelry auction system.exe
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Jewelry auction system.deps.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Jewelry auction system.runtimeconfig.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Jewelry auction system.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Jewelry auction system.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Azure.Core.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Azure.Identity.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\FirebaseAdmin.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Firebase.Auth.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Firebase.Storage.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Api.Gax.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Api.Gax.Rest.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Apis.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Apis.Auth.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Apis.Core.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Apis.Storage.v1.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Google.Cloud.Storage.V1.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Humanizer.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\MailKit.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\MimeKit.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.CodeDom.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Management.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Memory.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\JewelryAuction.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\JewelryAuction.Services.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\JewelryAuction.Data.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\bin\Debug\net7.0\JewelryAuction.Services.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.csproj.AssemblyReference.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.GeneratedMSBuildEditorConfig.editorconfig
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.AssemblyInfoInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.AssemblyInfo.cs
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.csproj.CoreCompileInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.MvcApplicationPartsAssemblyInfo.cs
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.MvcApplicationPartsAssemblyInfo.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.sourcelink.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets.build.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets.development.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets\msbuild.Jewelry auction system.Microsoft.AspNetCore.StaticWebAssets.props
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets\msbuild.build.Jewelry auction system.props
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Jewelry auction system.props
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Jewelry auction system.props
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\staticwebassets.pack.json
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\scopedcss\bundle\Jewelry auction system.styles.css
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry .B8C5E400.Up2Date
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\refint\Jewelry auction system.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\Jewelry auction system.genruntimeconfig.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\Jewelry auction system\obj\Debug\net7.0\ref\Jewelry auction system.dll

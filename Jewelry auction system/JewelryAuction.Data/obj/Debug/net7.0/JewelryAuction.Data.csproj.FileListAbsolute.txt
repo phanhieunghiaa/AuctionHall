@@ -1,0 +1,15 @@
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\bin\Debug\net7.0\JewelryAuction.Data.deps.json
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\bin\Debug\net7.0\JewelryAuction.Data.runtimeconfig.json
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\bin\Debug\net7.0\JewelryAuction.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\bin\Debug\net7.0\JewelryAuction.Data.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.csproj.AssemblyReference.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.AssemblyInfoInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.AssemblyInfo.cs
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.csproj.CoreCompileInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.sourcelink.json
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\refint\JewelryAuction.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\JewelryAuction.Data.genruntimeconfig.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Data\obj\Debug\net7.0\ref\JewelryAuction.Data.dll

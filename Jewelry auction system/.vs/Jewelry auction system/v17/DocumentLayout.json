@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A528A-0267-4340-948F-98380C1D8396}|Jewelry auction system\\Jewelry auction system.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelry auction system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A71A528A-0267-4340-948F-98380C1D8396}|Jewelry auction system\\Jewelry auction system.csproj|solutionrelative:jewelry auction system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.services\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|solutionrelative:jewelryauction.services\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71A528A-0267-4340-948F-98380C1D8396}|Jewelry auction system\\Jewelry auction system.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelry auction system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71A528A-0267-4340-948F-98380C1D8396}|Jewelry auction system\\Jewelry auction system.csproj|solutionrelative:jewelry auction system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|solutionrelative:jewelryauction.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\models\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.services\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|solutionrelative:jewelryauction.services\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.services\\helpers\\verificationcodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|solutionrelative:jewelryauction.services\\helpers\\verificationcodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.services\\services\\auctioncheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B441E0-C0CE-4097-8524-247293A9AF49}|JewelryAuction.Services\\JewelryAuction.Services.csproj|solutionrelative:jewelryauction.services\\services\\auctioncheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\helper\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\helper\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\data\\entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\data\\entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\data\\entity\\auctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\data\\entity\\auctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\enums\\auctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\enums\\auctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|d:\\jewelry-auction-system_jas\\jewelry auction system\\jewelryauction.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CF3025-E087-40F1-9B91-BCE271367D52}|JewelryAuction.Data\\JewelryAuction.Data.csproj|solutionrelative:jewelryauction.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenHelper.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Helpers\\JwtTokenHelper.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Services\\Helpers\\JwtTokenHelper.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Helpers\\JwtTokenHelper.cs",
+              "RelativeToolTip": "JewelryAuction.Services\\Helpers\\JwtTokenHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:12:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\Jewelry auction system\\appsettings.json",
+              "RelativeDocumentMoniker": "Jewelry auction system\\appsettings.json",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\Jewelry auction system\\appsettings.json",
+              "RelativeToolTip": "Jewelry auction system\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:22:06.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Models\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Models\\UpdateUserDTO.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Models\\UpdateUserDTO.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Models\\UpdateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:18:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:47:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Services\\Services\\EmailServices.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\EmailServices.cs",
+              "RelativeToolTip": "JewelryAuction.Services\\Services\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:26:55.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Services\\Services\\UserService.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "JewelryAuction.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:15:10.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerificationCodeManager.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Helpers\\VerificationCodeManager.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Services\\Helpers\\VerificationCodeManager.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Helpers\\VerificationCodeManager.cs",
+              "RelativeToolTip": "JewelryAuction.Services\\Helpers\\VerificationCodeManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:14:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\Jewelry auction system\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Jewelry auction system\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\Jewelry auction system\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Jewelry auction system\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:15:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Enums\\UserRole.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Enums\\UserRole.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:54:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuctionCheckService.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\AuctionCheckService.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Services\\Services\\AuctionCheckService.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Services\\Services\\AuctionCheckService.cs",
+              "RelativeToolTip": "JewelryAuction.Services\\Services\\AuctionCheckService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:18:30.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Helper\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Helper\\VnPayLibrary.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Helper\\VnPayLibrary.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Helper\\VnPayLibrary.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:14:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\Entity\\Products.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Data\\Entity\\Products.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\Entity\\Products.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Data\\Entity\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:02:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auctions.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\Entity\\Auctions.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Data\\Entity\\Auctions.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\Entity\\Auctions.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Data\\Entity\\Auctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:01:25.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuctionStatus.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Enums\\AuctionStatus.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Enums\\AuctionStatus.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Enums\\AuctionStatus.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Enums\\AuctionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:01:22.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:51:04.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "JewelryAuction.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\jewelry-auction-system_jas\\Jewelry auction system\\JewelryAuction.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "JewelryAuction.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:38:15.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

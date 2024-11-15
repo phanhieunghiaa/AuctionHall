@@ -1,0 +1,16 @@
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\bin\Debug\net7.0\JewelryAuction.Services.deps.json
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\bin\Debug\net7.0\JewelryAuction.Services.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\bin\Debug\net7.0\JewelryAuction.Services.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\bin\Debug\net7.0\JewelryAuction.Data.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\bin\Debug\net7.0\JewelryAuction.Data.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.csproj.AssemblyReference.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.AssemblyInfoInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.AssemblyInfo.cs
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.csproj.CoreCompileInputs.cache
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.sourcelink.json
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryA.9D97D0D2.Up2Date
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\refint\JewelryAuction.Services.dll
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\JewelryAuction.Services.pdb
+D:\jewelry-auction-system_jas\Jewelry auction system\JewelryAuction.Services\obj\Debug\net7.0\ref\JewelryAuction.Services.dll
